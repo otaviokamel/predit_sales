@@ -1,6 +1,6 @@
 # Forecasting the Sales for Rossmann Stores
 
-This repository is a project of machine learning to predict sales from different stores, serving as a studying project.
+This repository is a project of machine learning to predict sales from different stores, serving for studying purposes.
 
 The goal of this project is to simulate a real world problem, and train the abilities that are necessary for a data scientist.
 
